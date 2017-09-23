@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Project16)(type KiCad)(uri ${KIPRJMOD}/project16.pretty)(options "")(descr "Project Specific Lib"))
+)
